@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main: - Hello,printf
- * Return: 0 (success);
+ * main - Hello,printf
+ * Return: 0 (success)
  */
 int main(void)
 {
