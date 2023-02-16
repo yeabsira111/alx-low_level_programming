@@ -1,7 +1,7 @@
 #include <stido.h>
 /**
- * main - a program that prints the siz of various commputer types
- * Return 0 (success)
+ * main - Entry
+ * Return: Always 0
  */
 int main(void)
 {
