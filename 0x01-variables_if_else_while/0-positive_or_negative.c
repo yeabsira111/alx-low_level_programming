@@ -1,8 +1,9 @@
-#include <stdlio.h>
-#include <time.h>
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 /**
- * main - determine if the number is postive, negative or zero
+ * main - Entry point
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
